@@ -2,7 +2,7 @@
 .DS_Store
 **/target
 .vscode
-connectorx-python/connectorx/*.so
+connectorx/*.so
 __pycache__
 .python-version
 .idea/
